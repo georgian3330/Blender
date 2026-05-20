@@ -1,6 +1,6 @@
 # Blender Tutorial 📚
 
-## Keyboard Shortcuts 
+## ✅ Keyboard Shortcuts 
 
 ### **General Viewport & Interface**
 *   **Q**: Opens the Quick Favorites menu.
